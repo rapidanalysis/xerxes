@@ -354,7 +354,7 @@
 		)
 		(uuid "fff88b8f-d8a1-4899-91b3-c2e20d4fde43")
 	)
-	(text "Connectors\n-------\nHDMI 0\n\nTo Be Completed\n-------\nCSI x1\n"
+	(text "Connectors\n-------\nHDMI 0\nCSI x1\n"
 		(exclude_from_sim no)
 		(at 125.984 80.264 0)
 		(effects
