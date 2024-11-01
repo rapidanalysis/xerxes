@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AMP1718264")(type "KiCad")(uri "${KIPRJMOD}/libraries/AMP1718264/AMP1718264.pretty")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A/USB4105-GF-A.pretty")(options "")(descr ""))
+  (lib (name "FSUSB42MUX")(type "KiCad")(uri "${KIPRJMOD}/libraries/FSUSB42MUX/FSUSB42MUX.pretty")(options "")(descr ""))
+)
