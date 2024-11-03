@@ -4,4 +4,5 @@
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "AMP1718264")(type "KiCad")(uri "${KIPRJMOD}/libraries/AMP1718264/AMP1718264.kicad_sym")(options "")(descr ""))
   (lib (name "FSUSB42MUX")(type "KiCad")(uri "${KIPRJMOD}/libraries/FSUSB42MUX/FSUSB42MUX.kicad_sym")(options "")(descr ""))
+  (lib (name "G45A19170083HR")(type "KiCad")(uri "${KIPRJMOD}/libraries/G45A19170083HR/G45A19170083HR.kicad_sym")(options "")(descr ""))
 )
