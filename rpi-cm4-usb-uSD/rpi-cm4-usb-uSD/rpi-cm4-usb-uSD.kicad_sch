@@ -1,0 +1,135 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "345c9651-d4ea-4d25-b5ab-f022b9143dbe")
+	(paper "A4")
+	(title_block
+		(title "Raspberry Pi Compute Module 4 USB3 and uSD")
+		(date "2024-11-02")
+		(rev "v01")
+		(comment 2 "creativecommons.org/licenses/by-sa/4.0/")
+		(comment 3 "License: CC BY-SA 4.0")
+		(comment 4 "Author: Michael Izquierdo")
+	)
+	(lib_symbols)
+	(sheet
+		(at 152.4 50.8)
+		(size 38.1 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "467fbf54-c03f-466f-a98e-ddfb87ae0959")
+		(property "Sheetname" "USB3.0 - VL805"
+			(at 152.4 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB3.kicad_sch"
+			(at 152.4 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-usb-uSD"
+				(path "/345c9651-d4ea-4d25-b5ab-f022b9143dbe"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 101.6)
+		(size 38.1 38.1)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(color 255 255 255 0.0000)
+		)
+		(uuid "caa71f4c-454d-4ac9-b287-456eafb34991")
+		(property "Sheetname" "CM4 High Speed"
+			(at 101.6 100.9645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4-high-speed.kicad_sch"
+			(at 101.6 140.2085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-usb-uSD"
+				(path "/345c9651-d4ea-4d25-b5ab-f022b9143dbe"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 50.8)
+		(size 38.1 38.1)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 132 0 132 1)
+		)
+		(fill
+			(color 255 255 255 0.0000)
+		)
+		(uuid "fc4c71a5-1008-4ac4-98db-57c838c57d91")
+		(property "Sheetname" "CM4 GPIO"
+			(at 101.6 50.1645 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cm4-gpio.kicad_sch"
+			(at 101.6 89.4085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "rpi-cm4-usb-uSD"
+				(path "/345c9651-d4ea-4d25-b5ab-f022b9143dbe"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
