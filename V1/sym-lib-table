@@ -5,4 +5,6 @@
   (lib (name "AMP1718264")(type "KiCad")(uri "${KIPRJMOD}/libraries/AMP1718264/AMP1718264.kicad_sym")(options "")(descr ""))
   (lib (name "FSUSB42MUX")(type "KiCad")(uri "${KIPRJMOD}/libraries/FSUSB42MUX/FSUSB42MUX.kicad_sym")(options "")(descr ""))
   (lib (name "G45A19170083HR")(type "KiCad")(uri "${KIPRJMOD}/libraries/G45A19170083HR/G45A19170083HR.kicad_sym")(options "")(descr ""))
+  (lib (name "2199230-3")(type "KiCad")(uri "${KIPRJMOD}/libraries/2199230-3/2199230-3.kicad_sym")(options "")(descr ""))
+  (lib (name "MDT320M03001")(type "KiCad")(uri "${KIPRJMOD}/libraries/MDT320M03001/MDT320M03001.kicad_sym")(options "")(descr ""))
 )

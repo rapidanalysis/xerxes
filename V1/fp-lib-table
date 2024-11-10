@@ -5,4 +5,5 @@
   (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A/USB4105-GF-A.pretty")(options "")(descr ""))
   (lib (name "FSUSB42MUX")(type "KiCad")(uri "${KIPRJMOD}/libraries/FSUSB42MUX/FSUSB42MUX.pretty")(options "")(descr ""))
   (lib (name "G45A19170083HR")(type "KiCad")(uri "${KIPRJMOD}/libraries/G45A19170083HR/G45A19170083HR.pretty")(options "")(descr ""))
+  (lib (name "MDT320M03001")(type "KiCad")(uri "${KIPRJMOD}/libraries/MDT320M03001/MDT320M03001.pretty")(options "")(descr ""))
 )
