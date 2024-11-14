@@ -13117,7 +13117,7 @@
 		)
 		(uuid "62302950-1276-4720-819b-111bab4929b0")
 	)
-	(label "PWR_3V3"
+	(label "CM4_3V3"
 		(at 365.76 228.6 0)
 		(fields_autoplaced yes)
 		(effects
@@ -13535,7 +13535,7 @@
 		)
 		(uuid "cc71a556-a577-4337-82ff-0fd114fecd38")
 	)
-	(label "PWR_3V3"
+	(label "CM4_3V3"
 		(at 262.89 54.61 0)
 		(fields_autoplaced yes)
 		(effects
@@ -13678,7 +13678,7 @@
 		)
 		(uuid "eda3cb7b-21b5-436b-a74e-0be5bba2e369")
 	)
-	(label "PWR_3V3"
+	(label "CM4_3V3"
 		(at 340.36 217.17 0)
 		(fields_autoplaced yes)
 		(effects
