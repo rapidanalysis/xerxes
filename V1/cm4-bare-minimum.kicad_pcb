@@ -122,7 +122,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Drill Files/")
+			(outputdirectory "Outputs/")
 		)
 	)
 	(net 0 "")
@@ -4630,7 +4630,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(uuid "9e477c14-55be-448b-87f9-a34dd32a2f92")
 			(effects
@@ -4641,7 +4641,7 @@
 			)
 		)
 		(property "Value" "12K 1%"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "2cffd760-2b5a-4712-8a96-dce3f8eed096")
 			(effects
@@ -4861,7 +4861,7 @@
 			(uuid "8eae44e6-c838-40ce-a453-e149dda9a4dc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "983e4101-d4d3-420c-add7-a37226719c67")
 			(effects
@@ -8406,7 +8406,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R10"
-			(at 0 -1.17 90)
+			(at -0.025 -1.0125 90)
 			(layer "F.SilkS")
 			(uuid "df1b21ae-bd92-490d-a638-a3553247ecc2")
 			(effects
@@ -8988,7 +8988,7 @@
 		(descr "SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U3"
-			(at 0 -2.4 0)
+			(at -0.05 2.2375 180)
 			(layer "F.SilkS")
 			(uuid "549d72c8-5262-43ee-a16b-02a2239c78ac")
 			(effects
@@ -9991,7 +9991,7 @@
 		)
 		(fp_arc
 			(start 40 -3.474874)
-			(mid 38.974875 -0.999998)
+			(mid 38.974875 -1.000001)
 			(end 36.5 0.025126)
 			(stroke
 				(width 0.12)
@@ -12852,7 +12852,7 @@
 		(descr "Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf")
 		(tags "USB USB_B USB_micro USB_OTG")
 		(property "Reference" "J2"
-			(at 1.925 -3.365 90)
+			(at -2.275 -4.7 90)
 			(layer "F.SilkS")
 			(uuid "989529e7-c029-4d69-8e3f-6c700d7d6a36")
 			(effects
@@ -13345,7 +13345,7 @@
 		(descr "Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf")
 		(tags "DRT-3 1x0.8mm Pitch 0.7mm")
 		(property "Reference" "U1"
-			(at 0 -1.5 90)
+			(at 0.2225 1.3625 90)
 			(layer "F.SilkS")
 			(uuid "cd6c279f-9b5f-4bf9-82ec-563ecb4e3bcc")
 			(effects
