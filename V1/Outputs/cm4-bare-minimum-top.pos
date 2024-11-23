@@ -1,0 +1,42 @@
+### Footprint positions - created on 2024-11-24T00:58:29+1100 ###
+### Printed by KiCad version 8.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                           PosX       PosY       Rot  Side
+C1        100n                     C_0402_1005Metric                              79.6500   -63.6500  -90.0000  top
+C2        10u                      C_0805_2012Metric                             147.5750   -75.5250  -90.0000  top
+C3        10u                      C_0805_2012Metric                              52.3750   -59.9000    0.0000  top
+C4        100n                     C_0402_1005Metric                              65.8000   -84.7750    0.0000  top
+D1        LED_Red                  LED_0603_1608Metric                           152.4375   -72.8750    0.0000  top
+D2        LED_Green                LED_0603_1608Metric                           154.0625   -69.7000  -90.0000  top
+J1        Molex_470531000          FanPinHeader_1x04_P2.54mm_Vertical             67.3550   -53.2000    0.0000  top
+J2        USB_OTG                  USB_Micro-B_EDAC_UCON00686                     42.5000   -65.0250  -90.0000  top
+J3        Micro_SD_Card_Det        SDCARD_MOLEX_503398-1892                      151.4000   -59.6750  180.0000  top
+J4        USB4105-GF-A             GCT_USB4105-GF-A                               42.9000   -55.0950  -90.0000  top
+J5        Conn_01x03               PinHeader_1x03_P2.54mm_Vertical               145.5250   -80.7250    0.0000  top
+J6        Conn_01x03               PinHeader_1x03_P2.54mm_Vertical               149.8500   -80.7500    0.0000  top
+J7        THD-02-R                 PinHeader_2x02_P2.54mm_Vertical                70.5750   -70.7000    0.0000  top
+Module1   ComputeModule4-CM4       Raspberry-Pi-4-Compute-Module                 141.0749   -89.9750   90.0000  top
+R1        36K_1%                   R_0402_1005Metric                              79.6500   -61.5250  -90.0000  top
+R2        2.2K_1%                  R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    52.4250   -63.7250    0.0000  top
+R3        2.2K_1%                  R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    52.4250   -66.2350    0.0000  top
+R4        NC                       R_0402_1005Metric                             143.8750   -57.0750   90.0000  top
+R5        NC                       R_0402_1005Metric                             143.9000   -58.9500   90.0000  top
+R6        5.1k                     R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    52.4000   -53.7250    0.0000  top
+R7        5.1k                     R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    52.2500   -56.4500    0.0000  top
+R8        12K_1%                   R_0402_1005Metric                             145.3000   -75.1500  180.0000  top
+R9        NC                       R_0402_1005Metric                             155.7500   -80.3000  -90.0000  top
+R10       1k                       R_0402_1005Metric                             150.2625   -72.3500   90.0000  top
+R11       NC                       R_0402_1005Metric                              77.7750   -79.2750  180.0000  top
+R12       1k                       R_0402_1005Metric                             156.7625   -69.4250  -90.0000  top
+R13       NC                       R_0402_1005Metric                              77.8750   -77.0750  180.0000  top
+R14       470R                     R_0402_1005Metric                              45.1000   -70.8250    0.0000  top
+R15       470R                     R_0402_1005Metric                              49.2500   -70.6250    0.0000  top
+R16       NC                       R_0402_1005Metric                             156.6250   -76.1250    0.0000  top
+R17       NC                       R_0402_1005Metric                             156.6500   -73.9000    0.0000  top
+U1        TPD2EUSB30               Texas_DRT-3                                    48.2625   -64.9475   90.0000  top
+U2        EMC2301-1-ACZL-TR        MSOP-8_3x3mm_P0.65mm                           77.4000   -61.5000   90.0000  top
+U3        RT9742GGJ5               SOT-23-5                                      146.8750   -71.8375  180.0000  top
+U4        74LVC1G07SE-7            SOT-353_SC-70-5                               156.4125   -83.6500   90.0000  top
+U5        MagJack-A70-112-331N126  TRJG0926HENL                                   51.2375   -80.7250  -90.0000  top
+## End
