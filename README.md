@@ -1,6 +1,6 @@
 # **RapidAnalysis CM4 Blade Carrier Board** 
 
-<center><img src="Images/3D Model.png" width="200" height="100"></center>
+<center><img src="Images/3D Model.png" width="500" height="250"></center>
 
 ### **Features** 
 
@@ -14,5 +14,5 @@ The Carrier Board includes:
 7. Boot Jumper
 
 ### **Dimensions**
-<center><img src="Images/Dimensions.png" width="200" height="100"></center>
+<center><img src="Images/Dimensions.png" width="500" height="250"></center>
 
