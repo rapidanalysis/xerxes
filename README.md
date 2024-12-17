@@ -1,18 +1,19 @@
 # **RapidAnalysis CM4 Blade Carrier Board** 
 
-<center><img src="Images/3D Model.png" width="500" height="250"></center>
+<center><img src="Images/3D Model 2.png" width="500" height="250"></center>
 
 ### **Features** 
 
 The Carrier Board includes:
-1. Hirose CM4 Rails
-2. Ethernet
-3. USB-Micro (Data Transfer)
-4. USB-C (Power)
-5. SD-Card
-6. Fan Connector
-7. Boot Jumper
+1. Amphenol CM5 Rails
+2. Ethernet (with 4-Pin POE and ESD Protection)
+3. USB-C
+4. SD-Card
+5. M.2 M Key Connector and Power Supply Unit
+6. CSI Connector
+7. Fan header
+8. Boot & Miscellaneous Jumpers
+9. Power Button
 
-### **Dimensions**
-<center><img src="Images/Dimensions.png" width="500" height="250"></center>
+
 

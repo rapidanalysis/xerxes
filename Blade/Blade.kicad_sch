@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Blade Carrier Board")
-		(date "2024-12-12")
-		(rev "0.1")
+		(date "2024-12-17")
+		(rev "0.2")
 		(company "RapidAnalysis")
 		(comment 1 "Author: Asad Imran")
 	)

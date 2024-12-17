@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -1639,6 +1642,18 @@
 		)
 		(rotate
 			(xyz 0 0 90)
+		)
+	)
+	(model "${KIPRJMOD}/CM5IO.3dshapes/CM5R5-3dstep.step"
+		(hide yes)
+		(offset
+			(xyz 36.5 -3.5 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
 		)
 	)
 )
