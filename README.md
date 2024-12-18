@@ -1,4 +1,4 @@
-# **RapidAnalysis CM4 Blade Carrier Board** 
+# **RapidAnalysis CM5 Blade Carrier Board** 
 
 <center><img src="Images/3D Model 3.png" width="600" height="300"></center>
 
