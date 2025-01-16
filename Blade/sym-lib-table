@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "CM5IO")(type "KiCad")(uri "${KIPRJMOD}/CM5IO.kicad_sym")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )
