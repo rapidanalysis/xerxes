@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "Blade")(type "KiCad")(uri "${KIPRJMOD}/Blade.kicad_sym")(options "")(descr ""))
+  (lib (name "RapidAnalysis_Logo")(type "KiCad")(uri "${KIPRJMOD}/RapidAnalysis_Logo.kicad_sym")(options "")(descr ""))
+  (lib (name "xerxes")(type "KiCad")(uri "${KIPRJMOD}/xerxes.kicad_sym")(options "")(descr ""))
 )
