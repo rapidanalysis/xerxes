@@ -3744,7 +3744,7 @@
 		)
 		(uuid "21d27171-b602-4b15-a240-78173b1d1631")
 	)
-	(text "Discharge Resistor\nNeeded by some\nType C PSUs"
+	(text "Discharge Capacitor\nNeeded by some\nType C PSUs"
 		(exclude_from_sim no)
 		(at 99.314 53.594 0)
 		(effects

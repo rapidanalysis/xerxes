@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AMP1718264")(type "KiCad")(uri "${KIPRJMOD}/libraries/AMP1718264/AMP1718264.kicad_sym")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "FSUSB42MUX")(type "KiCad")(uri "${KIPRJMOD}/libraries/FSUSB42MUX/FSUSB42MUX.kicad_sym")(options "")(descr ""))
+  (lib (name "G45A19170083HR")(type "KiCad")(uri "${KIPRJMOD}/libraries/G45A19170083HR/G45A19170083HR.kicad_sym")(options "")(descr ""))
+  (lib (name "MDT320M03001")(type "KiCad")(uri "${KIPRJMOD}/libraries/MDT320M03001/MDT320M03001.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "RapidAnalysis_Logo")(type "KiCad")(uri "${KIPRJMOD}/libraries/RapidAnalysis/RapidAnalysis_Logo.kicad_sym")(options "")(descr ""))
+  (lib (name "xerxes")(type "KiCad")(uri "${KIPRJMOD}/libraries/Xerxes/xerxes.kicad_sym")(options "")(descr ""))
+  (lib (name "Blade")(type "KiCad")(uri "${KIPRJMOD}/Blade.kicad_sym")(options "")(descr ""))
+)
