@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Blade")(type "KiCad")(uri "${KIPRJMOD}/Blade.kicad_sym")(options "")(descr ""))
+  (lib (name "DF005S_E3_45")(type "KiCad")(uri "${KIPRJMOD}/libraries/DF005S_E3_45/DF005S_E3_45.kicad_sym")(options "")(descr ""))
+  (lib (name "NFC_antenna")(type "KiCad")(uri "${KIPRJMOD}/NFC_antenna.kicad_sym")(options "")(descr ""))
+)
