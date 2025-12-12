@@ -1,0 +1,485 @@
+(footprint "SDCARD_MOLEX_503398-1892"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.907665 -8.415745 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a3932ae6-be21-4914-905d-29f86d2bbfeb")
+		(effects
+			(font
+				(size 1.000685 1.000685)
+				(thickness 0.015)
+			)
+		)
+	)
+	(property "Value" "Micro_SD_Card_Det"
+		(at 3.719055 8.349145 180)
+		(layer "F.Fab")
+		(uuid "816ef9a0-146c-46bf-8d98-0ccb719f6931")
+		(effects
+			(font
+				(size 1.001094 1.001094)
+				(thickness 0.015)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c7f42f82-2dfe-4020-8523-ea6df75e358a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "9 (8 + 1) Position Card Connector microSD™ Surface Mount, Right Angle Gold"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ebdb475d-550b-4018-b90f-2275f372a0f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field4" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6464c394-0d13-4d0d-b689-7659459d4cb2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20f6e5de-8f14-4fd9-b14b-1c3782a5862b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field6" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f08b8a8-fb25-43a0-8a5c-694fdc7e381f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field7" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb75f437-68b5-47de-aed2-8e3242769d7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Description" "9 (8 + 1) Position Card Connector microSD™ Surface Mount, Right Angle Gold"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a55c9491-530a-4cad-97c2-9cd74b4367f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field8" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56e7f0ab-9bed-4a5a-a753-20e56da81c9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67c77295-4170-44ca-9029-317bd24858cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Specifications" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4897f00b-55cb-4c83-84ed-ea8c0c892b12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "5033981892 "
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f9adbef-7c13-4fb3-b23e-1195eef40bde")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d529009e-e0b4-43db-a1a9-b4e4cebe2039")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83fac8b5-607b-46d4-baee-b728f0555d90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "492e56ea-eb99-4f8a-a383-6d01aca67b7a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "5033981892 "
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "895249c5-1306-4b26-b540-14e271ab43b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c6fcc9b-0b24-4255-8608-adb1e6140398")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.55 -1.425)
+		(end -6.55 -4.325)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b571d050-2d22-4e74-a63a-f0a60ca2317f")
+	)
+	(fp_line
+		(start -6.55 3.675)
+		(end -6.55 1.575)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f56f9942-43e8-46af-819a-d4684a13be1b")
+	)
+	(fp_line
+		(start -4.874 7.025)
+		(end -5.876 7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "075aa68e-7d9d-43de-9cfd-6cc97012651d")
+	)
+	(fp_line
+		(start 5.876 7.025)
+		(end 0.874 7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c95b082c-3163-4f92-8db2-9bb775986117")
+	)
+	(fp_line
+		(start 6.55 -7.025)
+		(end -6.55 -7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "048f4e69-bb97-4819-bec2-595cb49e294f")
+	)
+	(fp_circle
+		(center -2.38 -7.475)
+		(end -2.28 -7.475)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "3d87d9c7-66d6-4696-8ca1-cd700d1f4b5d")
+	)
+	(fp_line
+		(start -7 -7.25)
+		(end -7 7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb5a027a-5fc9-4d15-a564-68263b16a6c4")
+	)
+	(fp_line
+		(start -7 7.5)
+		(end 7 7.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "06664a46-ed92-436f-bcfd-0dd59f09a876")
+	)
+	(fp_line
+		(start 7 -7.25)
+		(end -7 -7.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4eab88a-ae2d-4f1e-8911-25b01841b511")
+	)
+	(fp_line
+		(start 7 7.5)
+		(end 7 -7.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f2b917f3-8173-4e08-9ec5-b13ee31b009e")
+	)
+	(fp_line
+		(start -6.55 -7.025)
+		(end -6.55 7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4ef1a8a7-46d3-42fb-8494-59f413dc8ed9")
+	)
+	(fp_line
+		(start -6.55 7.025)
+		(end 6.55 7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c1a4303-27a0-4f4f-b3c0-540f2d0124cd")
+	)
+	(fp_line
+		(start 6.55 -7.025)
+		(end -6.55 -7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "177c2bfc-647c-499d-988b-f50d01a04313")
+	)
+	(fp_line
+		(start 6.55 7.025)
+		(end 6.55 -7.025)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "219d4c88-9656-4cd5-a6b6-c6b9cbddad2a")
+	)
+	(fp_circle
+		(center -2.38 -5.775)
+		(end -2.28 -5.775)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "2a5a32b6-20cf-46e8-851c-a0848d7822d0")
+	)
+	(pad "1" smd rect
+		(at -2.38 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b8cb5753-d560-463f-8816-fd5f1079e6e2")
+	)
+	(pad "2" smd rect
+		(at -1.28 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ca022825-1571-4c14-bb56-6c5e923c5ce9")
+	)
+	(pad "3" smd rect
+		(at -0.18 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b81d0d55-0d91-4d37-92b5-10080c27a956")
+	)
+	(pad "4" smd rect
+		(at 0.92 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c04c3ea9-2fc8-4055-8ca9-576a9b16831c")
+	)
+	(pad "5" smd rect
+		(at 2.02 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "14be788f-4089-4f7c-a92c-429aa5e9cdf6")
+	)
+	(pad "6" smd rect
+		(at 3.12 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aa92e123-4b15-468c-9665-ddeba94e8661")
+	)
+	(pad "7" smd rect
+		(at 4.22 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "76a513d2-d987-43ba-9570-cbbe50eeb28d")
+	)
+	(pad "8" smd rect
+		(at 5.32 -5.625)
+		(size 0.7 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "84e39084-434a-48e0-964f-6197a695d9a0")
+	)
+	(pad "9" smd rect
+		(at -4.17 6.84)
+		(size 0.9 0.93)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7bcbf4db-6fdf-463c-a702-f58217b4ba5b")
+	)
+	(pad "10" smd rect
+		(at 0.095 6.915)
+		(size 1.05 0.78)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b8003460-2729-4a5a-b6af-cfe36d93b2ba")
+	)
+	(pad "11" smd rect
+		(at -6.48 5.64)
+		(size 0.7 3.33)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5bb622e2-1daf-4b63-8ab5-9bee8fd8998c")
+	)
+	(pad "11" smd rect
+		(at -6.26 -5.61)
+		(size 1.14 1.83)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "27fa6891-428a-4135-bcb4-9f6800467067")
+	)
+	(pad "11" smd rect
+		(at 6.4 -5.125)
+		(size 0.86 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "52fa1d6c-6fb8-4f4e-b0a5-74543b5e1529")
+	)
+	(pad "11" smd rect
+		(at 6.48 5.64)
+		(size 0.7 3.33)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f89e9360-6ab7-408b-b4b6-981aff833b59")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Xerxes.3dshapes/5033981892.stp"
+		(offset
+			(xyz -135.95 -16.5 154.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -180)
+		)
+	)
+)

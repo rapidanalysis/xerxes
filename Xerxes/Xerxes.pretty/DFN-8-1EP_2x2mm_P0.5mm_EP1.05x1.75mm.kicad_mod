@@ -1,0 +1,427 @@
+(footprint "DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "DFN8 2x2, 0.5P; CASE 506CN (see ON Semiconductor 506CN.PDF)")
+	(tags "DFN 0.5")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6f4ba4ab-cb04-4464-b776-be5e4475e1f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AP3441SHE-7B"
+		(at 0 2 0)
+		(layer "F.Fab")
+		(uuid "7a295eaa-27d2-463c-8a61-f6439cbc049c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP3441-L.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c7938cfe-6fea-4484-b91c-0369258596ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "3A DC-DC converter"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db24143f-7363-490b-9990-2979fd011c33")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15a11984-5129-4772-8a6e-ef67eac4e545")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field6" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6b15916-ce61-4e08-a539-cba6a03578e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field7" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bee33c3a-869c-4dfc-b9b6-81f61356a7cf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Description" "3A DC-DC converter"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e908161-a3e1-4aaa-bab2-0cbcfed1903c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Diodes Incorporated "
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce412432-60a3-4e55-b632-17bd096067ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Specifications" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9cd7411-366c-451b-bcb9-8132f9967c7c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "AP3441SHE-7B"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d86cc0a0-a9ca-4a54-be08-617b8501bb26")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Diodes Incorporated "
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39946c5a-7dad-4f36-80ba-8c3f860f34cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86f6a1d8-6514-48af-b038-db2bb126c199")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "647a873b-52f4-4624-ba4b-dda42e282309")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "AP3441SHE-7B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "986f7487-084b-46fc-866c-2371d0b03ab1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "afbd3199-77d2-44d1-86c3-a452e767b977")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(clearance 0.125)
+	(attr smd allow_soldermask_bridges)
+	(fp_line
+		(start 1 -1.1)
+		(end -1 -1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e23d573e-4bfd-4b30-8ef3-bc195ae1685b")
+	)
+	(fp_line
+		(start 1 1.1)
+		(end -1 1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a86e15c-455d-4876-9fce-e7dc6f472f59")
+	)
+	(fp_poly
+		(pts
+			(xy -1.34 -1.09) (xy -1.62 -1.09) (xy -1.34 -1.37) (xy -1.34 -1.09)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "67b89081-e856-42a3-bc24-41713723ebb1")
+	)
+	(fp_line
+		(start -1.4 1.25)
+		(end -1.4 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3a8a3914-7df4-4fd7-993c-b549ea7a71c1")
+	)
+	(fp_line
+		(start 1.4 -1.25)
+		(end -1.4 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3e215f44-0105-4edb-9b9a-5e1f1451bd03")
+	)
+	(fp_line
+		(start 1.4 1.25)
+		(end -1.4 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "83de2fec-80fe-490e-a958-093df95c7cb7")
+	)
+	(fp_line
+		(start 1.4 1.25)
+		(end 1.4 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d96c5ba-e007-49ea-a34d-c91ada3fd7cb")
+	)
+	(fp_line
+		(start -1 -0.5)
+		(end -1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3fef6c72-9d11-434b-8715-a5270a001559")
+	)
+	(fp_line
+		(start -1 1)
+		(end 1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "535ff3b5-9537-42b1-b75a-865255c922f9")
+	)
+	(fp_line
+		(start -0.5 -1)
+		(end -1 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "344c52a7-47b4-4c60-89b2-dc780c1e5423")
+	)
+	(fp_line
+		(start 1 -1)
+		(end -0.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "979ffa74-461f-4895-89f9-23ab4c95aa2c")
+	)
+	(fp_line
+		(start 1 1)
+		(end 1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b4a7ca91-68dc-4f1b-a3f8-b41bf7a62233")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7ef44738-a9aa-4191-80c3-a5c56f806745")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "" smd rect
+		(at 0 -0.4375)
+		(size 0.85 0.65)
+		(layers "F.Paste")
+		(uuid "4237ebc1-728f-42c5-8a75-2112de789ba7")
+	)
+	(pad "" smd rect
+		(at 0 0.4375)
+		(size 0.85 0.65)
+		(layers "F.Paste")
+		(uuid "a0db8005-163c-4264-8109-f99c8292ce2d")
+	)
+	(pad "1" smd rect
+		(at -0.9 -0.75)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a75cb3f2-49dd-4a02-87b4-65908c0388b2")
+	)
+	(pad "2" smd rect
+		(at -0.9 -0.25)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "afca407e-f6fa-4bb6-aefb-dabd62997e86")
+	)
+	(pad "3" smd rect
+		(at -0.9 0.25)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a85b2b86-7c7c-4fde-8634-6c65a30ee952")
+	)
+	(pad "4" smd rect
+		(at -0.9 0.75)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6c654dd2-cc40-4653-a1f4-925f2126510d")
+	)
+	(pad "5" smd rect
+		(at 0.9 0.75)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "78235109-1c10-4c71-8ecc-c09e7fddc350")
+	)
+	(pad "6" smd rect
+		(at 0.9 0.25)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8d04084f-2bee-4e9e-88ee-e45ee42bc0b9")
+	)
+	(pad "7" smd rect
+		(at 0.9 -0.25)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4e378c1d-3a24-4d10-85a9-6a88bee9bebd")
+	)
+	(pad "8" smd rect
+		(at 0.9 -0.75)
+		(size 0.5 0.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8633315a-31a9-46fe-9153-48c8a27c62c4")
+	)
+	(pad "9" smd rect
+		(at 0 0)
+		(size 1.05 1.75)
+		(layers "F.Cu" "F.Mask")
+		(uuid "3917968a-b97f-42ea-927b-c3f9c7bf9842")
+	)
+	(embedded_fonts no)
+	(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

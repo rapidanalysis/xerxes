@@ -11,6 +11,9 @@
 *.kicad_prl
 *.sch-bak
 *~
+
+fp-info-cache
+
 _autosave-*
 *.tmp
 *-save.pro

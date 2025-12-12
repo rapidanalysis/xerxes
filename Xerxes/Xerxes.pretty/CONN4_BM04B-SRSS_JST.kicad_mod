@@ -1,0 +1,373 @@
+(footprint "CONN4_BM04B-SRSS_JST"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "BM04B-SRSS-TB ")
+	(property "Reference" "REF**"
+		(at 0 1.882201 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3b6903c2-5843-4f78-aca1-3c411303af36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BM04B-SRSS-TB"
+		(at 0 1.882201 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0310126f-920c-41ca-8e04-40e38494199c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e3c26ed-043f-44c0-920f-d20d6e0c60ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Connector Header Surface Mount 4 position 0.039\" (1.00mm)"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c23c8b3-5963-43f3-a82d-02a97736f923")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "JST Sales America Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "44137f2c-40e7-4987-a930-d70cdafd0201")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "BM04B-SRSS-TB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c52ce5db-41de-4284-ad1c-8086448c3f3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "JST Sales America Inc."
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "039e8be2-cf9d-439d-85f6-acbd34f67fe2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bda70c34-834b-47ae-9509-c5a6ddc3ed0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "307a6da3-4ebb-455d-bf62-4e937df64864")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Description" "Connector Header Surface Mount 4 position 0.039\" (1.00mm)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8a0183f-9839-43f0-aa7d-983b342e8ee9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "BM04B-SRSS-TB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fbfa1df9-c9c0-4b77-b1e1-04d6dade7919")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99bfa187-0d0b-4e48-bb98-0c6f30b03a55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.1242 0.587441)
+		(end -3.1242 1.5748)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "231e36a2-5c0b-45b2-a2ec-6a6d1b9a0b11")
+	)
+	(fp_line
+		(start -3.1242 1.5748)
+		(end -2.16294 1.5748)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bb95ad4-510b-4c68-916c-6edaaf3cb03f")
+	)
+	(fp_line
+		(start 1.819559 -1.5748)
+		(end -1.819559 -1.5748)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b4dbf49a-9d2c-4194-9ce5-6d67f1bdfae4")
+	)
+	(fp_line
+		(start 2.16294 1.5748)
+		(end 3.1242 1.5748)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14636bbf-c454-4115-ac80-d419c38f9b51")
+	)
+	(fp_line
+		(start 3.1242 1.5748)
+		(end 3.1242 0.587441)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd512b72-b899-45fa-bc13-8daeb5ffe87e")
+	)
+	(fp_circle
+		(center -3.7592 1.882201)
+		(end -3.3782 1.882201)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "919a3469-58b8-4926-8e32-f781d262feff")
+	)
+	(fp_line
+		(start -3.7017 -1.904299)
+		(end -3.7017 2.910901)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7dc378db-ab50-41d3-94c5-372b59431cf6")
+	)
+	(fp_line
+		(start -3.7017 2.910901)
+		(end 3.7017 2.910901)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "047c3e25-7219-4bc3-b38c-176111bbf01e")
+	)
+	(fp_line
+		(start 3.7017 -1.904299)
+		(end -3.7017 -1.904299)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "00d4bf9a-38f6-4171-9d3e-5b70c60d1994")
+	)
+	(fp_line
+		(start 3.7017 2.910901)
+		(end 3.7017 -1.904299)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b2ef6a92-6c46-4f9e-b6a6-2d37cd951cd1")
+	)
+	(fp_line
+		(start -2.9972 -1.4478)
+		(end -2.9972 1.4478)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b0eaa85-1309-488e-884e-0f37dd800354")
+	)
+	(fp_line
+		(start -2.9972 1.4478)
+		(end 2.9972 1.4478)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ee028a12-8b44-402d-a5ff-ecd394e2d9f0")
+	)
+	(fp_line
+		(start 2.9972 -1.4478)
+		(end -2.9972 -1.4478)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d8827dee-8459-4055-8148-68008fbb7e80")
+	)
+	(fp_line
+		(start 2.9972 1.4478)
+		(end 2.9972 -1.4478)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4eca7a49-6f5a-4a7b-940b-fbb32e5a8c0c")
+	)
+	(fp_circle
+		(center -1.5 -0.022799)
+		(end -1.119 -0.022799)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d9dd5c72-9f5b-4ffc-926d-c1dd7d796706")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.882201 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4508bfec-2784-4dbd-9c2f-6277a7be1ebc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 1.882201)
+		(size 0.6604 1.5494)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "514eb6e7-6a50-457d-a593-c1ef46644667")
+	)
+	(pad "2" smd rect
+		(at -0.499999 1.882201)
+		(size 0.6604 1.5494)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5cab6be3-1279-446e-8e41-29ef0a693d6e")
+	)
+	(pad "3" smd rect
+		(at 0.499999 1.882201)
+		(size 0.6604 1.5494)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d5b71528-df6c-4498-bd84-4cec2f7b7934")
+	)
+	(pad "4" smd rect
+		(at 1.5 1.882201)
+		(size 0.6604 1.5494)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa9b2406-55f0-4777-b88b-360d374c4fbb")
+	)
+	(pad "5" smd rect
+		(at -2.799999 -0.697799)
+		(size 1.2954 1.905)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c6d9ad4f-2b24-409e-80ee-32a19bfa8751")
+	)
+	(pad "6" smd rect
+		(at 2.799999 -0.697799)
+		(size 1.2954 1.905)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fd3b3505-330b-4120-b2eb-59bb936a8d7c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Xerxes.3dshapes/BM04B-SRSS-TB.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

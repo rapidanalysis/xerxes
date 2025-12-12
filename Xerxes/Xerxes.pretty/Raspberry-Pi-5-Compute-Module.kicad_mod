@@ -1,0 +1,228 @@
+(footprint "Raspberry-Pi-5-Compute-Module"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Raspberry Pi 5 Compute Module")
+	(tags "Raspberry Pi 5 Compute Module")
+	(property "Reference" "REF**"
+		(at 21.88 -8.57 270)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "fceb4221-3d2d-4c4e-b970-e769151c2fa5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Compute Module 5"
+		(at 20.02 -3.3 0)
+		(layer "F.Fab")
+		(uuid "103a08c6-3331-4946-af49-c7e927a9355c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5aad95e-947c-449f-a559-11f280094ea8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a13f526c-7464-4bef-b06a-9a2eedeca965")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start 1.64 -36.39)
+		(end 1.64 -35.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fe783f16-245b-4cb6-a765-85a6a72582e5")
+	)
+	(fp_line
+		(start 1.64 -36.39)
+		(end 4.44 -36.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "316bef8d-036b-4f23-bec3-66bb43fb64fc")
+	)
+	(fp_line
+		(start 1.64 -13.59)
+		(end 1.64 -14.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3de5010-ae2f-442c-882b-bc1ae8c7aa65")
+	)
+	(fp_line
+		(start 1.64 -13.59)
+		(end 4.44 -13.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f084fd4b-b377-470e-8462-75f3b9491be5")
+	)
+	(fp_line
+		(start 4.44 -36.39)
+		(end 4.44 -35.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a264ba97-3b17-48c9-910f-0f19ce70184e")
+	)
+	(fp_line
+		(start 4.44 -13.59)
+		(end 4.44 -14.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f237a33-412c-48f6-80a3-b62fb28523e9")
+	)
+	(fp_line
+		(start 35.56 -36.39)
+		(end 35.56 -35.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17b3c082-8635-4954-8abc-52ee8e381cab")
+	)
+	(fp_line
+		(start 35.56 -36.39)
+		(end 38.44 -36.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3fde5ff7-1cce-4ec6-a4da-911711a4b1d4")
+	)
+	(fp_line
+		(start 35.56 -13.59)
+		(end 35.56 -14.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0efb0762-504d-499d-b52a-b0fbf9c32ddd")
+	)
+	(fp_line
+		(start 35.56 -13.59)
+		(end 38.44 -13.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87b24c40-6b6c-4b8f-8e5d-fff8c4a9b91c")
+	)
+	(fp_line
+		(start 38.44 -36.39)
+		(end 38.44 -35.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26eb7c0b-8db5-4922-b8cc-a3f95438583d")
+	)
+	(fp_line
+		(start 38.44 -13.59)
+		(end 38.44 -14.59)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3e86c3e-692f-44cd-be2e-6b53a43deccb")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.5 -51.49)
+		(size 2.7 2.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(solder_mask_margin 1.7)
+		(clearance 1.7)
+		(uuid "c3890b9c-5f5a-41be-a720-b7d219e7b55d")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.5 -3.49)
+		(size 2.7 2.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(solder_mask_margin 1.7)
+		(clearance 1.7)
+		(uuid "b63bae18-39fe-406a-acd9-781c856f9a1c")
+	)
+	(pad "" np_thru_hole circle
+		(at 36.5 -51.49)
+		(size 2.7 2.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(solder_mask_margin 1.7)
+		(clearance 1.7)
+		(uuid "f5f1300b-59bc-4a74-9843-1661feb5c80f")
+	)
+	(pad "" np_thru_hole circle
+		(at 36.5 -3.49)
+		(size 2.7 2.7)
+		(drill 2.7)
+		(layers "*.Cu" "*.Mask")
+		(solder_mask_margin 1.7)
+		(clearance 1.7)
+		(uuid "ae7e13be-91a2-4c1d-acb4-0e326c67c986")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Xerxes.3dshapes/CM5.step"
+		(hide yes)
+		(offset
+			(xyz 40 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)

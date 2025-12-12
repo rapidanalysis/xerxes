@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Xerxes")(type "KiCad")(uri "${KIPRJMOD}/Xerxes.kicad_sym")(options "")(descr "Xerxes CM5 Carrier Board Project Library"))
+)

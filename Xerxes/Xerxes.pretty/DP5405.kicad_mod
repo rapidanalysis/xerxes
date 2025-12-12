@@ -1,0 +1,261 @@
+(footprint "DP5405"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d2ba81e7-9347-448e-8239-874b2994f5f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "DP5405"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "63b5c97b-ff3a-4274-87bd-d67593c3a34b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb14f737-14a5-41a8-a6f5-e9f15d9a519f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Connector for sdapo DP5405 POE 5v@5A module"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a29c07d-71bc-42d0-9458-bc2897c5d885")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -28.79 -5.19)
+		(end 28.82 -5.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "0c7c33da-8f13-4eb2-ad1e-e7fe94b17dcd")
+	)
+	(fp_line
+		(start -28.79 5.13)
+		(end -28.79 -5.19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "39a7397c-4b66-48eb-81aa-caa68c5b2fb7")
+	)
+	(fp_line
+		(start -0.97 5.19)
+		(end -28.79 5.13)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc53ea40-123b-4888-a295-662cc97124bd")
+	)
+	(fp_line
+		(start -0.95 11.13)
+		(end -0.97 5.19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "481018e0-c7c2-442c-b0b9-dadf72042633")
+	)
+	(fp_line
+		(start 13.26 5.14)
+		(end 13.26 11.14)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "de2da8b7-a030-45df-b2be-4b374b6b0b73")
+	)
+	(fp_line
+		(start 13.26 11.14)
+		(end -0.95 11.13)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7fd633c-103c-4272-8480-b0b6daeca56b")
+	)
+	(fp_line
+		(start 28.82 -5.15)
+		(end 28.82 5.15)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "c3bfcc0e-8fde-4294-aff7-17f8b66d6056")
+	)
+	(fp_line
+		(start 28.82 5.15)
+		(end 13.26 5.14)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "d26c9002-b40c-409c-b7ae-f6be3d01ba73")
+	)
+	(fp_rect
+		(start -28.64 -5)
+		(end 28.66 5)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "c04db853-b148-475d-aea1-2990c41309b4")
+	)
+	(fp_rect
+		(start -0.84 -0.9)
+		(end 13.16 11)
+		(stroke
+			(width 0.1)
+			(type dash)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "2b9579ca-5eeb-49b3-a546-ac0b69a10e24")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b4fcddae-1801-4aa2-8e6f-c91286b4e689")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -23.83 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "134d600a-c35a-43a6-8f3b-c8f77076f815")
+	)
+	(pad "2" thru_hole oval
+		(at -21.29 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "56415edd-af91-45c6-991a-e8e75d33093b")
+	)
+	(pad "3" thru_hole oval
+		(at -18.75 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0c23b908-6fc6-4e2c-bca4-8376db0f293d")
+	)
+	(pad "4" thru_hole oval
+		(at -16.21 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2d519130-526b-4442-84d7-c54b8f70f3d5")
+	)
+	(pad "5" thru_hole rect
+		(at 19.35 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b424b6f7-153e-414e-ae49-f95e106a8d1e")
+	)
+	(pad "6" thru_hole oval
+		(at 21.89 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3976d72f-d4ad-47e7-bd2b-d019dcc0659e")
+	)
+	(pad "7" thru_hole oval
+		(at 24.43 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "626d296a-e657-4e61-892a-9b941d4d1fc9")
+	)
+	(pad "8" thru_hole oval
+		(at 26.97 3.4 270)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "50a64836-3166-48e1-977c-917c3a323111")
+	)
+	(group ""
+		(uuid "15e77716-a412-4653-bbca-468361474854")
+		(members "0c23b908-6fc6-4e2c-bca4-8376db0f293d" "134d600a-c35a-43a6-8f3b-c8f77076f815"
+			"2d519130-526b-4442-84d7-c54b8f70f3d5" "56415edd-af91-45c6-991a-e8e75d33093b"
+		)
+	)
+	(group ""
+		(uuid "89335e50-36ba-488c-a584-b4c1958ebb1a")
+		(members "3976d72f-d4ad-47e7-bd2b-d019dcc0659e" "50a64836-3166-48e1-977c-917c3a323111"
+			"626d296a-e657-4e61-892a-9b941d4d1fc9" "b424b6f7-153e-414e-ae49-f95e106a8d1e"
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Xerxes.3dshapes/DP5405.step"
+		(offset
+			(xyz -17.24 -3.5 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
